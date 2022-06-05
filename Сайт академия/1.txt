@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Академия ТОР</title>
+</head>
+<body>
+  <header>
+    <div class = "container">
+      <div class = "row">
+        <div class = "logo">
+          <img src = "https://i.posleurokov.ru/resize/400/400/44195/80ccfa31508bdfe96f6d201b586665bf.jpg" width = "100" height = "100">
+        </div>
+        <div class = "description">
+          <p class = "divdes">
+            Добро пожаловать <br> на страничку <br> Академии Тор!
+          </p>
+        </div>
+      </div>
+      <div class = "row">
+        <div class = "nav">
+          <ul class = "nav">
+            <li><a href = "https://msk.top-academy.ru/?">Официальный сайт</a></li>
+            <li><a href = "https://vk.com/rus_it_top?ysclid=l419fn53qi">VK группа</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </header>
+  
+  <div class = "main">
+    <div class = "container">
+      <div class = "rowM">
+        <div class = "maincoloumn">
+          <p class = "mainP1">Первый шаг</p>
+          <ul class = "mainUL">
+            <li>IT-введение</li>
+            <li>Sketch</li>
+            <li>Lego WeDo</li>
+        </div>
+        <div class = "maincoloumn">
+          <p class = "mainP2">Малая Компьютерная Академия</p>
+          <ul class = "mainUL">
+            <li>Python</li>
+            <li>Blender</li>
+            <li>YouTube</li>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <footer>
+    
+  </footer>
+</body>
+</html>
